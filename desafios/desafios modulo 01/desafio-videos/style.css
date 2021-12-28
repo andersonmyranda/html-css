@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+    }
+body img{
+    margin: 50px;
+    margin-right: 80px;
+    }
+
+h1 {
+    color: cornsilk;
+    text-align: center;
+}
+#hard, #pyton, #ht, #js{
+    color: cornsilk;
+    
+}
+iframe{
+    margin-left: 400px;
+}
